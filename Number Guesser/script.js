@@ -8,6 +8,9 @@ function generateTarget(){ //Generates random number between zero and nine.
 
 //Function is called to determine which guess is closest to the target number.
 function compareGuesses(human, computer, target){
+    if(human > 9 || human < 0){
+        alert('Your number is out of range, guess a number between 0 and 9.');
+    }
     const h = Math.abs(target - human);
     const c = Math.abs(target - computer);
     if(h < c || h == c){
@@ -32,3 +35,8 @@ function updateScore(winner){
 function advanceRound(){
     currentRoundNumber++;
 }
+
+function getAbsoluteDistance(a, b){
+    return Math.abs(a - b);
+}
+
