@@ -10,4 +10,8 @@ Fancy Simple Website:
 Number Guesser Game: 
 <img width="1004" alt="Screen Shot 2021-06-20 at 3 07 20 PM" src="https://user-images.githubusercontent.com/74996590/122689681-6f478a80-d1d9-11eb-845d-2ad40c09b0d1.png">
 
+Meal Maker:
+Your meal consists of  McDonald's French Fries , Chik Fil A Grilled Chicken Sandwich, Banana, The total price is $10.5.}
+
+
 _Source: Codecademy_
