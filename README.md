@@ -1,5 +1,5 @@
-# Full Stack Engineering Mini Projects
-Small projects I made while learning Full Stack Engineering.
+# Learning Full Stack Engineering Mini Projects
+Small projects I made while learning Full Stack Engineering. Not all of them are full stack, some of them are just javascript projects.
 
 
 
