@@ -1,5 +1,3 @@
-![welcome-icegif](https://user-images.githubusercontent.com/74996590/125144726-a1128980-e0d3-11eb-8048-e7edb6e75c27.gif)
-
 # Learning Full Stack Engineering Mini Projects
 Welcome! These are some small projects I made while learning Full Stack Engineering. Not all of them are full stack, some of them are just javascript/HTML projects.
 
