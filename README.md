@@ -1,5 +1,7 @@
+![welcome-icegif](https://user-images.githubusercontent.com/74996590/125144726-a1128980-e0d3-11eb-8048-e7edb6e75c27.gif)
+
 # Learning Full Stack Engineering Mini Projects
-Small projects I made while learning Full Stack Engineering. Not all of them are full stack, some of them are just javascript projects.
+Welcome! These are some small projects I made while learning Full Stack Engineering. Not all of them are full stack, some of them are just javascript/HTML projects.
 
 
 
@@ -17,4 +19,9 @@ Fashion Blog:
 <img width="1481" alt="Screen Shot 2021-07-07 at 11 29 27 PM" src="https://user-images.githubusercontent.com/74996590/124873316-2df5ff80-df7b-11eb-8725-64e986dee010.png">
 
 Simple fashion blog written in HTML, purpose is to learn HTML Syntax.
+
+Wine Festival Website:
+<img width="944" alt="Screen Shot 2021-07-09 at 4 33 34 PM" src="https://user-images.githubusercontent.com/74996590/125144670-6ad50a00-e0d3-11eb-8595-9cd092daf044.png">
+
+Simple wine festival website schedule written in HTML, demonstrates knowledge of tables in HTML.
 _Source: Codecademy_
