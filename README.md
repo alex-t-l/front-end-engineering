@@ -22,4 +22,9 @@ Wine Festival Website:
 <img width="944" alt="Screen Shot 2021-07-09 at 4 33 34 PM" src="https://user-images.githubusercontent.com/74996590/125144670-6ad50a00-e0d3-11eb-8595-9cd092daf044.png">
 
 Simple wine festival website schedule written in HTML, demonstrates knowledge of tables in HTML.
+
+Seattle Blog Website:
+<img width="1460" alt="Screen Shot 2021-07-09 at 11 58 18 PM" src="https://user-images.githubusercontent.com/74996590/125154953-9971d580-e111-11eb-97d9-640e6515557f.png">
+
+Simple Seattle blog website written in HTML.
 _Source: Codecademy_
