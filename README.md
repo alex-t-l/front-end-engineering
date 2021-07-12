@@ -17,14 +17,12 @@ Simple wine festival website schedule written in HTML, demonstrates knowledge of
 Healthy Recipes Blog Website:
 <img width="580" alt="Screen Shot 2021-07-11 at 7 15 36 PM" src="https://user-images.githubusercontent.com/74996590/125221194-bc6cc880-e27c-11eb-8aad-7e477b52273f.png">
 
-Use basic CSS to demonstrate that I have knowledge of CSS and the basic feautures you can manipulate with it for improved visuals such as font, color, etc.<img
+Project shows that I can use basic CSS to demonstrate that I have knowledge of CSS.
 
 Simple Seattle blog website written in HTML.
 
 Fancy Simple Website:
 <img width="1862" alt="Screen Shot 2021-06-20 at 3 10 12 PM" src="https://user-images.githubusercontent.com/74996590/122689711-9ef69280-d1d9-11eb-9d94-ae5faebb4961.png">
-
-
 
 
 Number Guesser Game: 
