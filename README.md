@@ -14,8 +14,9 @@ Wine Festival Website:
 
 Simple wine festival website schedule written in HTML, demonstrates knowledge of tables in HTML.
 
-Healthy Recipes:
-width="580" alt="Screen Shot 2021-07-11 at 7 15 36 PM" src="https://user-images.githubusercontent.com/74996590/125221115-9fd09080-e27c-11eb-9068-a68453e55835.png">
+Healthy Recipes Blog Website:
+<img width="580" alt="Screen Shot 2021-07-11 at 7 15 36 PM" src="https://user-images.githubusercontent.com/74996590/125221194-bc6cc880-e27c-11eb-8aad-7e477b52273f.png">
+
 Use basic CSS to demonstrate that I have knowledge of CSS and the basic feautures you can manipulate with it for improved visuals such as font, color, etc.<img
 
 Simple Seattle blog website written in HTML.
