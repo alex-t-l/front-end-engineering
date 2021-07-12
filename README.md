@@ -2,6 +2,7 @@
 Welcome! These are some small projects I made while learning Full Stack Engineering. Not all of them are full stack, some of them are just javascript/HTML/CSS projects.
 
 **CSS FOCUSED PROJECTS**
+
 Mini Portfolio:
 <img width="1374" alt="Screen Shot 2021-07-11 at 7 35 19 PM" src="https://user-images.githubusercontent.com/74996590/125222612-30a86b80-e27f-11eb-9b0a-b20f08302720.png">
 Mini portfolio that demonsrates basic HTML and CSS skills.
