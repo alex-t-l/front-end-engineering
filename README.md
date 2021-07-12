@@ -4,6 +4,7 @@ Welcome! These are some small projects I made while learning Full Stack Engineer
 **CSS FOCUSED PROJECTS**
 
 Dasmoto's Arts and Crafts:
+
 <img width="652" alt="Screen Shot 2021-07-11 at 11 08 55 PM" src="https://user-images.githubusercontent.com/74996590/125239262-43ca3400-e29d-11eb-8b2e-8cb044fa8078.png">
 
 The purpose of this project is to create an HTML and CSS website from scratch and follow exactly what Dasmoto wants on their website. Practices connecting CSS with HTML and making sections in HTML code to split up parts for the CSS to visualize.
