@@ -3,12 +3,6 @@ Welcome! These are some small projects I made while learning Full Stack Engineer
 
 **CSS FOCUSED PROJECTS**
 
-HTML Cheatsheet:
-
-<img width="1803" alt="Screen Shot 2021-07-13 at 4 31 57 PM" src="https://user-images.githubusercontent.com/74996590/125538478-e90cd0ec-b64b-4e40-9b35-79b7c2fad568.png">
-
-The purpose of this project is create a cheatsheet for HTML syntax of your choosing. I chose HTML media, and table syntax.
-
 Dasmoto's Arts and Crafts:
 
 <img width="652" alt="Screen Shot 2021-07-11 at 11 08 55 PM" src="https://user-images.githubusercontent.com/74996590/125239262-43ca3400-e29d-11eb-8b2e-8cb044fa8078.png">
@@ -28,6 +22,12 @@ Healthy Recipes Blog Website:
 Project shows that I can use basic CSS to demonstrate that I have knowledge of CSS.
 
 **HTML FOCUSED PROJECTS**
+HTML Cheatsheet:
+
+<img width="1803" alt="Screen Shot 2021-07-13 at 4 31 57 PM" src="https://user-images.githubusercontent.com/74996590/125538478-e90cd0ec-b64b-4e40-9b35-79b7c2fad568.png">
+
+The purpose of this project is create a cheatsheet for HTML syntax of your choosing. I chose HTML media, and table syntax.
+
 Seattle Blog Website:
 
 <img width="1460" alt="Screen Shot 2021-07-09 at 11 58 18 PM" src="https://user-images.githubusercontent.com/74996590/125154953-9971d580-e111-11eb-97d9-640e6515557f.png">
