@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Cheat Sheet: HTML Table Reference</title>
+    <link href="./styles.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <h1>HTML Cheatsheet</h1>
+    <nav>
+        <ul>
+            <li><a href="#media">HTML Visuals</a></li>
+            <li><a href="#tags">HTML Table tags</a></li>
+            <li><a href="#attributes">HTML Table attributes</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <div id = "Visuals">
+        <h2>Visuals</h2>
+        <table>
+            <thead>
+            <tr>
+                <th>Tag</th>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="code">&lt;img src = "pic.jpg"& alt = "image description"&gt;</td>
+                <td>Local Image</td>
+                <td>Insert local image into HTML page</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;img src = "imagelink.com/image.jpg"& alt = "image description"&gt;</td>
+                <td>URL Image</td>
+                <td>Insert URL image into HTML page</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;video width = "1920" height = "1080" controls&gt;
+                &lt;source src = "video.mp4" type = "video/mp4"&gt;
+                Video not supported.
+                &lt;/video&gt;
+                <td>Video</td>
+                <td>Insert video into HTML page</td>
+                </td>
+            </tr>
+            <tr>
+                <td class="code">&lt;audio controls&gt;
+                    &lt;source src = "sound.mp3" type = "audio/mp3"&gt;
+                    Audio not supported.
+                    &lt;/audio&gt;
+                <td>Audio</td>
+                <td>Insert audio into HTML page</td>
+                </td>
+            </tr>
+            <tr>
+                <td class="code">&lt;p&gt;&lt;a href = "mailto:someemail@gmail.com?Subject=Hi" target = "_top"&gt; Body Message Here&lt;/a&gt;&lt;/p&gt;</td>
+                <td>Email someone</td>
+                <td>Email straight to someone, you can also write the message and insert media for them</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;em&gt;Enchante&lt;/em&gt;</td>
+                <td>Italic text</td>
+                <td><em>Make your text italic</em></td>
+            </tr>
+            <tr>
+                <td class="code">&lt;strong&gt;BOLD&lt;/strong&gt;</td>
+                <td>Bold text</td>
+                <td><strong>Make your text bold</strong></td>
+            </tr>
+            </a>
+        </table>
+    </div>
+    <div id="tags">
+        <h2>Table tags</h2>
+        <table>
+            <thead>
+            <tr>
+                <th>Tag</th>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="code">&lt;table&gt;</td>
+                <td>Table</td>
+                <td>The wrapper element for all HTML tables</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;thead&gt;</td>
+                <td>Table Head</td>
+                <td>The set of rows defining the column headers in a table</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;tbody&gt;</td>
+                <td>Table Body</td>
+                <td>The set of rows containing actual table data</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;tr&gt;</td>
+                <td>Table Row</td>
+                <td>The table row container</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;td&gt;</td>
+                <td>Table Data</td>
+                <td>The table row container</td>
+            </tr>
+            <tr>
+                <td class="code">&lt;tfoot&gt;</td>
+                <td>Table Foot</td>
+                <td>The set of rows defining the footer in a table</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <br>
+    <br>
+    <hr>
+    <div id="attributes">
+        <h2>Table attributes</h2>
+        <table>
+            <thead>
+            <tr>
+                <th>Attribute</th>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="code">colspan</td>
+                <td>Column Span</td>
+                <td>Defines how many columns a td element should span</td>
+            </tr>
+            <tr>
+                <td class="code">rowspan</td>
+                <td>Row Span</td>
+                <td>Defines how many rows a &lt;td&gt; element should span</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</main>
+<br>
+<footer>
+    <h5> Created by Alex Lai</h5>
+</footer>
+</body>
+</html>
