@@ -2,6 +2,11 @@
 Welcome! These are some small projects I made while learning Full Stack Engineering. These are here simply to demonstrate my JavaScript, CSS, and HTML knowledge.
 
 **CSS FOCUSED PROJECTS**
+Excursion Project:
+
+<img width="1080" alt="Screen Shot 2021-07-16 at 7 39 45 PM" src="https://user-images.githubusercontent.com/74996590/126022856-df0ca1be-7ab2-4539-82af-c7c85f745208.png">
+
+The putpose of this project is to follow a template accordingly to test CSS and HTML knowledge.
 
 Dasmoto's Arts and Crafts:
 
