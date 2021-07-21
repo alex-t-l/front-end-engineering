@@ -5,9 +5,9 @@ Welcome! These are some small projects I made while learning Full Stack Engineer
 
 Davie's Burgers:
 
-**<img width="1004" alt="Screen Shot 2021-07-21 at 12 11 32 AM" src="https://user-images.githubusercontent.com/74996590/126447264-cb3895a8-b922-4280-bc92-929d351f74dc.png">
+<img width="1004" alt="Screen Shot 2021-07-21 at 12 11 32 AM" src="https://user-images.githubusercontent.com/74996590/126447264-cb3895a8-b922-4280-bc92-929d351f74dc.png">
 
-The purpose of this project is to demonstrate I have knowledge of **the box model in CSS.
+The purpose of this project is to demonstrate I have knowledge of the box model in CSS.
 
 Excursion Project:
 
