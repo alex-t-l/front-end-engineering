@@ -2,6 +2,13 @@
 Welcome! These are some small projects I made while learning Full Stack Engineering. These are here simply to demonstrate my JavaScript, CSS, and HTML knowledge.
 
 **CSS FOCUSED PROJECTS**
+
+Davie's Burgers:
+
+**<img width="1004" alt="Screen Shot 2021-07-21 at 12 11 32 AM" src="https://user-images.githubusercontent.com/74996590/126447264-cb3895a8-b922-4280-bc92-929d351f74dc.png">
+
+The purpose of this project is to demonstrate I have knowledge of **the box model in CSS.
+
 Excursion Project:
 
 <img width="1080" alt="Screen Shot 2021-07-16 at 7 39 45 PM" src="https://user-images.githubusercontent.com/74996590/126022856-df0ca1be-7ab2-4539-82af-c7c85f745208.png">
