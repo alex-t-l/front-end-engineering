@@ -3,10 +3,10 @@ Welcome! These are some small projects I made while learning Full Stack Engineer
 
 **MAJOR PROJECTS:**
 
-**Inspirational Quote Generator: Deployment: https://alex-t-l.github.io/Inspirational-Quote-Generator/ Repo:https://github.com/alex-t-l/Inspirational-Quote-Generator
+Inspirational Quote Generator: Deployment: https://alex-t-l.github.io/Inspirational-Quote-Generator/ Repo:https://github.com/alex-t-l/Inspirational-Quote-Generator
 
 Website Design System using CSS and HTML : Deployment: https://alex-t-l.github.io/Alex-s-Website-Design-System/ Repo: https://github.com/alex-t-l/Alex-s-Website-Design-System
-**
+
 
 **CSS FOCUSED PROJECTS**
 
