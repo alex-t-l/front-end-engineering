@@ -15,6 +15,12 @@ Excursion Project:
 
 The putpose of this project is to follow a template accordingly to test CSS and HTML knowledge.
 
+**MAJOR PROJECTS:**
+
+Inspirational Quote Generator: Deployment: https://alex-t-l.github.io/Inspirational-Quote-Generator/ Repo:https://github.com/alex-t-l/Inspirational-Quote-Generator
+
+Website Design System using CSS and HTML : Deployment: https://alex-t-l.github.io/Alex-s-Website-Design-System/ Repo: https://github.com/alex-t-l/Alex-s-Website-Design-System
+
 Dasmoto's Arts and Crafts:
 
 <img width="652" alt="Screen Shot 2021-07-11 at 11 08 55 PM" src="https://user-images.githubusercontent.com/74996590/125239262-43ca3400-e29d-11eb-8b2e-8cb044fa8078.png">
