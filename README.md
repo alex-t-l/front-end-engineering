@@ -4,15 +4,17 @@ Welcome! These are some small projects I made while learning Front end engineeri
 
 **MAJOR PROJECTS:**
 
-Inspirational Quote Generator: 
+_Inspirational Quote Generator:_ 
 
-Deployment: https://alex-t-l.github.io/Inspirational-Quote-Generator/
-Repo:https://github.com/alex-t-l/Inspirational-Quote-Generator
+**Deployment:** https://alex-t-l.github.io/Inspirational-Quote-Generator/
 
-Website Design System using CSS and HTML : 
+**Repo:**https://github.com/alex-t-l/Inspirational-Quote-Generator
 
-Deployment: https://alex-t-l.github.io/Alex-s-Website-Design-System/ 
-Repo: https://github.com/alex-t-l/Alex-s-Website-Design-System
+_Website Design System using CSS and HTML : _
+
+**Deployment: **https://alex-t-l.github.io/Alex-s-Website-Design-System/ 
+
+**Repo:** https://github.com/alex-t-l/Alex-s-Website-Design-System
 
 
 **CSS FOCUSED PROJECTS**
