@@ -22,7 +22,7 @@ _Website Design System using CSS and HTML : _
 
 <img width="841" alt="Screen Shot 2021-07-29 at 1 45 28 PM" src="https://user-images.githubusercontent.com/74996590/127564093-70c04329-5fde-460f-9f10-225de3e65c8b.png">
 
-Piano Keys Project
+Piano Keys Project:
 
 Demonsrates knowledge of JavaScript's event handlers and modifying the DOM.
 
