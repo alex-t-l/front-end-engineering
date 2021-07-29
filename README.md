@@ -1,5 +1,5 @@
-# Learning Full Stack Engineering Mini Projects
-Welcome! These are some small projects I made while learning Full Stack Engineering. These are here simply to demonstrate my JavaScript, CSS, and HTML knowledge.
+# Learning Front end Engineering Mini Projects
+Welcome! These are some small projects I made while learning Front end engineering. These are here simply to demonstrate my JavaScript, CSS, and HTML knowledge.
 
 **MAJOR PROJECTS:**
 
